@@ -11,8 +11,7 @@ Also see the [Interactive notebook version of this document](https://colab.resea
 
 *Choose one of the options below and have a go!*
 
-**Note: At the end of this notebook is some code to demonstrate pulling
-data from the web and doing introductory exploration.**
+**Note: This [notebook]((https://colab.research.google.com/github/Mjboothaus/getting-started-python/blob/main/GettingStartedPythonAnalytics.ipynb) provides some code to demonstrate pulling data from the web and doing introductory exploration.**
 
 ## Introduction
 
