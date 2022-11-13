@@ -38,9 +38,8 @@ however, these are very good starting places.
 ### Author
 
 ```
-    Dr. Michael J. Booth
-    Founder, DataBooth
-    michael@databooth.com.au
+    Dr. Michael J. Booth (Founder, DataBooth)
+    michael _AT_ databooth.com.au
 ```
 
 
