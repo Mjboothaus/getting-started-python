@@ -50,15 +50,11 @@ If you\'re going to write some code, setup a free-tier `git` based
 respository to track your work. e.g. [GitHub.com](https://github.com),
 [GitLab.com](https://gitlab.com) or
 [BitBucket.org](https://bitbucket.org).
-:::
 
-::: {.cell .markdown id="9loTU1vl0kWs"}
 ## Options
 
 So, in no particular order\...
-:::
 
-::: {.cell .markdown id="4-KeXxXE_F6n"}
 ## Google Colaboratory (hosted Jupyter notebooks)
 
 That\'s the platform that this document (notebook) is built with/hosted
