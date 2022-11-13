@@ -2,7 +2,9 @@
 
 Some suggested resources for learning Python
 
-Also see the [Interactive notebook version of this document](https://colab.research.google.com/github/Mjboothaus/getting-started-python/blob/main/GettingStartedPythonAnalytics.ipynb) - opens by default in the free-tier of [Google Colaboratory](https://colab.research.google.com/). Or see the file `GettingStartedPythonAnalytics.ipynb` above.
+Also see the [Interactive notebook version of this document](https://colab.research.google.com/github/Mjboothaus/getting-started-python/blob/main/GettingStartedPythonAnalytics.ipynb) - which opens by default in the free-tier of [Google Colaboratory](https://colab.research.google.com/). 
+
+Or see the file `GettingStartedPythonAnalytics.ipynb` above.
 
 
 # Some resources for getting started with Python and analytics
