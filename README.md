@@ -66,7 +66,7 @@ notebooks).
 See their excellent introductory overview notebook
 [here](https://colab.research.google.com/notebooks/intro.ipynb).
 
-## Replit.com (Game-ified approach) {#replitcom-game-ified-approach}
+## Replit.com (Game-ified approach)
 
 Replit provides a free, on-demand, collaborative, in-browser IDE to code
 in over 50 languages including Python. Consquently it does not require
