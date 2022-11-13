@@ -122,7 +122,7 @@ datasets or rely on networking connection to execute code. Just download
 a lab, and you're ready to play around and experiment with code solving
 real-world problems of computational science 🚀.
 
-## Articles
+## Further Reading
 
 ### [Towards Data Science](https://towardsdatascience.com/about)
 
